@@ -33,7 +33,7 @@ student_list=[]
 for i in range(2):
     s1=student()
     s1.entry()
-    if "A":
+    #if "A":
     #div_A.student_list.append(s1)
 
 for s1 in student_list:
